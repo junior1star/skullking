@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xdd57cd871d12cde2a4930b9cd79a3e5a6d6c1e1d",
+  "SCAN_LINK": "https://polygonscan.com/tx/0xa93b0a9821f8972336eca670c258afb71e61291793e51244a0023c6b34bcf4db",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "The Skull King Collection",
+  "SYMBOL": "TSKC",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/the-skull-king-collection",
+  "SHOW_BACKGROUND": true
+}
